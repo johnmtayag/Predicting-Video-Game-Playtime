@@ -1,4 +1,4 @@
-# Predicting how many hours a player will spend playing a game
+# Predicting Video game Playtime
 
 ---
 
